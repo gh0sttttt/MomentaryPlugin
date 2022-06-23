@@ -1,0 +1,25 @@
+{
+  "slug": "Momentary",
+  "name": "Momentary",
+  "version": "2.0.0",
+  "license": "GPLv3",
+  "brand": "Moment",
+  "author": "gh0sttttt",
+  "authorEmail": "",
+  "authorUrl": "",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "Compare",
+      "name": "Compare",
+      "description": "Compares two inputs. If input 1 is greater than input 2, 10v is output. If input 2 is greater than input 1, 0v is output.",
+      "tags": [
+        "Utility"
+      ]
+    }
+  ]
+}
