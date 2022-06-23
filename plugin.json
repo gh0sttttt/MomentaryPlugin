@@ -16,7 +16,7 @@
     {
       "slug": "Compare",
       "name": "Compare",
-      "description": "Compares two inputs. If input 1 is greater than input 2, 10v is output. If input 2 is greater than input 1, 0v is output.",
+      "description": "Compares two inputs. If input 1 is greater than input 2, 5v is output. If input 2 is greater than input 1, 0v is output.",
       "tags": [
         "Utility"
       ]

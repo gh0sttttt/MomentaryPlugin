@@ -42,7 +42,7 @@ struct Compare : Module {
 				// Get voltage and compare
 				float output = inputs[i*2].getVoltage() >= inputs[i*2+1].getVoltage();
 				// Set voltage for output and enable LED
-				outputs[i].setVoltage(output * 10.f);
+				outputs[i].setVoltage(output * 5.f);
 				lights[i].setBrightness(output);
 			}
 			else {
