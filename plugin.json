@@ -20,6 +20,14 @@
       "tags": [
         "Utility"
       ]
+    },
+    {
+      "slug": "Multiplexr",
+      "name": "Multiplexr",
+      "description": "Multiplexer and DeMultiplexer",
+      "tags": [
+        "Utility"
+      ]
     }
   ]
 }
