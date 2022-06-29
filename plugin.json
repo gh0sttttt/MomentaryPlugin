@@ -28,6 +28,15 @@
       "tags": [
         "Utility"
       ]
+    },
+    {
+      "slug": "Clock",
+      "name": "Clock",
+      "description": "Simple Clock Generator with two outputs",
+      "tags": [
+        "Utility",
+        "Clock"
+      ]
     }
   ]
 }
