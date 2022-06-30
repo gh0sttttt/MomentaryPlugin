@@ -37,6 +37,14 @@
         "Utility",
         "Clock"
       ]
+    },
+    {
+      "slug": "Sequence",
+      "name": "Sequence",
+      "description": "Simple 8 Step Sequencer",
+      "tags": [
+        "Sequencer"
+      ]
     }
   ]
 }
