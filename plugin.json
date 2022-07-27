@@ -45,6 +45,15 @@
       "tags": [
         "Sequencer"
       ]
+    },
+    {
+      "slug": "divide",
+      "name": "Divide",
+      "description": "Simple clock divider",
+      "tags": [
+        "Clock",
+        "Utility"
+      ]
     }
   ]
 }

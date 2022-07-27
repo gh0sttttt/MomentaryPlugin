@@ -12,3 +12,4 @@ extern Model* modelCompare;
 extern Model* modelMultiplexr;
 extern Model* modelClock;
 extern Model* modelSequence;
+extern Model* modelDivide;
